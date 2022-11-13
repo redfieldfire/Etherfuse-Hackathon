@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+smart_contract = "48jHqeGTLgoPL87634G8PANGwvnSATavvXEnAKstUpSF"
+
+[registry]
+url = "https://anchor.projectsrum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/christopher/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

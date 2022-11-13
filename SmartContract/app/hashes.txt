@@ -1,0 +1,12 @@
+BIP39 Passphrase (empty for none): 
+
+Wrote new keypair to /home/christopher/.config/solana/id.json
+==================================================================================
+pubkey: 48jHqeGTLgoPL87634G8PANGwvnSATavvXEnAKstUpSF
+==================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+bread humble field autumn thunder disagree weather belt parent soul pyramid inhale
+==================================================================================
+
+
+/home/christopher/.local/share/solana/install/active_release/bin/cargo-build-sbf
